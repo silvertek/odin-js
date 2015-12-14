@@ -1,0 +1,99 @@
+html,body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+25,7db9e8+75,207cca+100 */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(left,  #1e5799 0%, #7db9e8 25%, #7db9e8 75%, #207cca 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #1e5799 0%,#7db9e8 25%,#7db9e8 75%,#207cca 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #1e5799 0%,#7db9e8 25%,#7db9e8 75%,#207cca 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#207cca',GradientType=1 ); /* IE6-9 */
+
+ 
+}
+
+.container{
+    background-color:#f2f2f2;
+    min-height:600px;
+    height:100%;
+    
+    
+    }
+
+.bgTexture{
+    background: transparent url(../img/bg-diagonal-pattern-02.gif) repeat;
+}
+    
+.tab-content{
+    background-color:#fff;
+    padding:8px;
+    
+}
+.footer .container{
+    
+    background-color:#222222;
+    border-top:1px solid red;
+    color:#fff;
+    height:30px;
+    text-align:right;
+    padding:8px;
+    max-height:30px;
+    font-size:12px;
+}
+
+.footer{
+    max-height:30px;
+    overflow:hidden;
+    position:relative;
+    bottom:0px;
+}
+button{
+    margin:5px 0px 5px;
+}
+
+.square-top{
+    border-top-left-radius:0em;
+    border-top-right-radius:0em;
+}
+
+.link{
+    color:teal;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important;
+    padding-bottom:5px !important;
+    height: 30px;
+    font-size:15px;
+    }
+
+.navbar {
+    min-height:25px !important;
+    margin:-8px;
+}
+    
+.odin-logo{
+        height:30px;
+        float:left;
+        margin-top:-8px;
+        
+    }
+#pad{
+    width:60%;
+    margin:0 auto;
+    text-align:center;
+    line-height:0px;
+    padding-top:10px;
+}
+.px{
+    border:solid 1px black;
+    display:inline-block;
+    height:5px;
+    width: 5px;
+    margin:0px;
+}
+
+.basic{
+    float:right;
+}
+
+#menu1{
+    text-align:center;
+}
